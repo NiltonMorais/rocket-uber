@@ -8,8 +8,8 @@ const App = () => (
         <MapView
             style={{flex: 1}}
             region={{
-                latitude: -27.210753,
-                longitude: -49.644183,
+                latitude: -14.798848,
+                longitude: -39.0561792,
                 latitudeDelta: 0.0143,
                 longitudeDelta: 0.0134
             }}
